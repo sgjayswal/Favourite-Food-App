@@ -1,0 +1,65 @@
+body{
+    background-color: aqua;
+}
+
+
+#main_ul1 {
+    color: aliceblue;
+    background-color: black;
+    margin-block-start: 0px;
+    height: 16px;
+    padding: 10px;
+    padding-left: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#main_ul1 li {
+    display: inline;
+    margin-top: auto;
+    margin-bottom: auto;
+    /* margin: 5px; */
+    padding: 5px;
+}
+
+#main_ul1 li:hover{
+    background-color:brown;
+    border-radius: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#main_ul2 li:hover{
+    background-color: pink;
+    display: inline;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */
+}
+
+div{
+    text-align: center;
+    margin: 25px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#div2 {
+    text-align: right;
+     text-decoration:underline;
+}
+
+
